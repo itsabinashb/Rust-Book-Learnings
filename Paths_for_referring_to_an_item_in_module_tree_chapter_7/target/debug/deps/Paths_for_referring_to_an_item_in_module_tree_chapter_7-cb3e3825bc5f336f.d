@@ -1,0 +1,5 @@
+/home/abinash/Desktop/Rust/Paths_for_referring_to_an_item_in_module_tree_chapter_7/target/debug/deps/libPaths_for_referring_to_an_item_in_module_tree_chapter_7-cb3e3825bc5f336f.rmeta: src/lib.rs
+
+/home/abinash/Desktop/Rust/Paths_for_referring_to_an_item_in_module_tree_chapter_7/target/debug/deps/Paths_for_referring_to_an_item_in_module_tree_chapter_7-cb3e3825bc5f336f.d: src/lib.rs
+
+src/lib.rs:

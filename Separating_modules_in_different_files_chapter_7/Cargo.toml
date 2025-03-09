@@ -1,0 +1,6 @@
+[package]
+name = "Separating_modules_in_different_files_chapter_7"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
